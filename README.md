@@ -12,11 +12,11 @@ SMOTE (Synthetic Minority Over-sampling Technique)it is used to balance this dat
 
 - Data before balancing
   
-![balanced_data](images/unbalanced.png)
+![balanced_data](Sampling/images/unbalanced.png)
 
 - Data after balancing with SMOTE
   
-![balanced_data](images/balanced.png)
+![balanced_data](Sampling/images/balanced.png)
 
 ## Techniques for Sample Creation
 - Simple Random Sampling 
